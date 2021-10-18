@@ -1,0 +1,76 @@
+.mainContent{
+    font-size: 1.4rem;
+    margin: 4rem;
+    padding: 2rem;
+    background: #fff;
+}
+
+.title{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.separator{
+    margin: 1em 0px;
+    border-bottom: 2px solid #888;
+}
+
+.space{
+    margin: 1em;
+}
+
+.text {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.flex > div {
+    display: block;
+}
+
+.homeImage{
+    max-width: 30%;
+    height: fit-content;
+    margin: 1em;
+}
+
+.column{
+    width: 20%;
+}
+
+.bigSpace{
+    margin: 4rem;
+}
+
+.row{
+    display: flex;
+    justify-content: left;
+}
+
+.unit{
+    margin: 0px 2rem;
+    text-align: center;
+    width: 14rem;
+    padding: 1rem 0px;
+    border-bottom: 2px solid #000;
+    transition: all 0.2s;
+}
+
+.unit:hover{
+    box-shadow: 0px 0px 1rem #000;
+}
+
+link{
+    text-decoration: none;
+    color: black;
+}
+
+link:hover{
+    background: black;
+    color: white;
+}

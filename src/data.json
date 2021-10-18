@@ -1,0 +1,62 @@
+[
+    {
+        "title" : "Wow, i have friends!",
+        "subtitle" : "Wow! I have friends! this is an unexpected pleasurable thing!",
+        "text" : [
+            "Can't remember the date",
+            "So I do have friends! Yes I do! and we had an amazing day today!",
+            "These days I am very focuse onto learning C++ decently, I language wich I've always tinkered with but never really undesrstood deeply. So my programs always ended up having a werid flow.",
+            "Yet I happened to stumble upon a unique thing! FRIENDS!",
+            "I was at the beach with my Parents, very chill and easy, not long after that my dad finds out there is an old friend of his at the beach, they play volleyball all day long. I then meet my dad's friend's son, His name is Giovanni, he's a funny simple guy, not an intellectual, yet a person who you can have simple fun with.",
+            "I then also meet other guys wich are friends of Giovanni, so we all meet up together and we daily go out together. We've had quite the fun together, We did Omegle Chats (I'm the dude that looks like a masked weird guy).",
+            "After that, the next day we also happen to have dinner together, we had a great time indeeed!"
+        ],
+        "images" : ["images/C++Cherno.jpg", "images/dinner.jpg", "images/omegle.jpg", "images/omegle2.jpg", "images/volpati.jpg"]
+    },
+    {
+        "title" : "SQUID GAME",
+        "subtitle" : "no ... not the tv series",
+        "text" : [
+            "My friends are funny and curious, we spent all day on the beach today, we swan and we've been on the cliffs.",
+            "We happened to grab a SQUID too today! This happened to be one of the funniest things I have ever done, I also touched it, Alessandro is the one who actually grabbed it and hold it. We were swimming and Alessandro (wich had snorkles) saw an interesting thing moving below a rock, we inspect, see a tentacle moving and Alessandro just happens to be so cuirous that he attempts four times before managing to catch it.",
+            "It looked weird seeing the squid in real life. I was very squishy but was curious about the human, not freightened as I expected. It calmly stayed onto Alessandro's hand",
+            "We also set out with the boat, and spent some time together, it definetily was fun!"
+        ],
+        "images" : ["images/POLPO.jpg", "images/POLPO2.jpg"]
+    },
+    {
+        "title" : "Escape room!",
+        "subtitle" : "first and last time for me",
+        "text" : [
+            "sadly I don't have any pictures for this experience, but it turned out to be .. a disappointing fun",
+            "We saw on the billboards a cool activity: escape rooms. I never have been in one before, it sounded interesting",
+            "So we hoppend onto the website, and got our place, the activity's name was 'Albatros S-123' (or something ike that)",
+            "So we got there, and did the escape room, it was ... fun, it has a hypothetical scenario where we had to rescue a submarine, and it was filled to the brim with puzzles. It turned out to be outrageously compicated, and unrealistic. I was not the one not enjoiying it to the fullest.",
+            "I anyway had some fun with my friends, it turned out to be interesting nontheless. The puzzle was just uncomfortable, but still, had fun."
+        ],
+        "images" : []
+    },
+    {
+        "title" : "LASERS!",
+        "subtitle" : "wanna zip zap your friends?",
+        "text" : [
+            "Well .. you now have the amazing opportuinity to do so!",
+            "My godness! This was fun! Turns out a very good commander too!",
+            "After the disappointing truth of the escape rooms, we saw an interesting thing to the side of the building, a Laser Game!",
+            "We wanted to blast some stuff, so we scheduled it for tomorrow",
+            "The next day we got to the beacha and spent some time together during the day, and during the evening we got back to the place and hopped into the laser game ... it was so fun, we played several times and it just happened to be amazing. I don't have photos of the game since they don't allow using your phone ingame, wich makes since since it would be a fair advantage.",
+            "We played something like 8 times, against several different people, we developed interesting tactics, I happened to be the general and to manage the game, we all had an amazing time",
+            "Also guess what? WE WON!"
+        ],
+        "images" : ["images/laser_game.jpg"]
+    },
+    {
+        "title" : "Hello world!",
+        "subtitle" : "Hello subtitle!",
+        "text" : [
+            "Hello text!",
+            "Hello second text!"
+        ],
+        "images" : []
+    }
+]
