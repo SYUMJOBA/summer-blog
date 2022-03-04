@@ -37,7 +37,7 @@ class Article extends React.Component {
                     e => <> <div className="text"> {e} </div> <div className="space"></div> </>
                 )}
                 
-                    {this.state.images.map(i => <img className="fullImage" src={i} alt="" /> )}
+                    {this.state.images.map(i => <img className="fullImage" key={this.state.currentArticle} src={i} alt="" /> )}
                 
             </div>
             )
